@@ -1,0 +1,67 @@
+<html>
+
+	<head>
+
+		<style>
+
+			h1 {
+				font-size: 90px;
+				color: blue;
+			}
+
+			h2 {
+				font-size: 75px;
+			}
+
+			h3 {
+				font-size: 50px;
+			}
+
+			h4 {
+				font-size: 25px;
+			}
+			h5 {
+				font-size: 15px;
+			}
+
+
+		</style>
+
+	</head>
+
+
+	<body>
+
+
+
+
+
+		<img src="JA.jpg" width="100px" alt="profile-image">
+
+		<h1>hello world...i'm justin</h1>
+
+		<p>i'm passionate about improving healthcare...i'm tired too.</p>
+
+<h2>i want to improve patient outcomes and save physicians time</h2>
+
+<h3>i know very little about coding</h3>
+	<p>i know more about strategy and finance</p>
+
+<h4>i'm still tired</h4>
+	<p>i'm not sure what i'm supposed to do besides write these headers</p>
+
+<h5>i wish they had coffee here</h5>
+	<p>i take cream and sugar in case someone can read this</p>
+	<p>they had coffee in napa, but we were drinking wine</p>
+
+<pre>what is "pre" tag</pre>
+
+<justin>what is this tag</justin>
+
+<h5>
+i like the <a href=http://www.chicagobears.com'> bears.</a>
+</h5>
+
+<h6>
+I bet the bears serve coffee.
+</h6>
